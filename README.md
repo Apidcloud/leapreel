@@ -1,5 +1,5 @@
 # LeapReel
-Leap Motion control for 360º images on top of Reel js - live demo at (https://anlagehub.com/public/leapreel/)
+Leap Motion control for 360º images on top of Reel js - live demo at (https://apidcloud.github.io/leapreel/)
 
 # Setup
 Install Leap Motion Desktop - https://www.leapmotion.com/setup/desktop/windows (tested with 2.3.1+31549) or
